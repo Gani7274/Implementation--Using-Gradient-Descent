@@ -1,4 +1,3 @@
-# Implementation--Using-Gradient-Descent
 ##AIM:
 To write a program to implement the linear regression using gradient descent.
 
@@ -52,7 +51,7 @@ plt.plot(loss)
 plt.xlabel("Iterations")
 plt.ylabel("loss")
 */
-##OUTPUT:![output-1](https://user-images.githubusercontent.com/105532515/169082450-c142d2c5-fb47-4bdd-9767-4029e31829f1.png)
+##OUTPUT:![output-1](https://user-images.githubusercontent.com/105532515/169082450-c142d2c5-fb47-4bdd-9767-4029e31829f1.png)\n
 ![output-2](https://user-images.githubusercontent.com/105532515/169082501-eb30761c-ddb7-454d-a5d8-34b7e5eb1dd6.png)
 
 
